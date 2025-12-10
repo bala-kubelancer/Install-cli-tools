@@ -1,5 +1,5 @@
 <div style="
-  background: linear-gradient(135deg, #171c3a, #3f2b96, #a14fdc);
+  background: linear-gradient(135deg, #042a64ff, #7c023bff, #4a037eff);
   border-radius: 24px;
   padding: 40px 32px;
   margin-bottom: 32px;
@@ -11,9 +11,16 @@
 ">
 
   <div style="flex: 1 1 260px; min-width: 260px;">
-    <h1 style="font-size: 2.6rem; margin-bottom: 12px;">
-      🛠️ Install CLI Tools
-    </h1>
+<h1 style="
+  font-size: 2.6rem;
+  margin-bottom: 12px;
+  background: linear-gradient(90deg, #ffcc70, #c850c0, #4158d0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">
+  🛠️ Install CLI Tools
+</h1>
+
     <p style="font-size: 1.1rem; line-height: 1.6; margin-bottom: 18px;">
       Your single place to <strong>install, configure, and verify</strong> all essential
       <strong>Cloud &amp; DevOps CLI tools</strong> — kubectl, Helm, Terraform, AWS CLI, and more.
